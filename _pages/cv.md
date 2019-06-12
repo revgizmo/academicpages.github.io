@@ -55,8 +55,8 @@ Work experience
   * __Re-engineered, re-deployed, and maintained the Commercial Loan Origination Tracking System__ that provided insight into the commercial loan origination process and allowed cycle times and funding rates to be managed (including a 29% cycle time reduction in 2013).	
  
 * 8/2005 - 12/2012: __Sales and Project Manager__, Fremont Bank, Hayward, CA
-  * __Developed companywide sales reporting__, including deposit cost analyses and pricing strategies.
-  * __Managed projects including streamlining the account opening process time by 50% and creating deposit promotions that generated $72 million, while saving 1.5% ($1.8 million) in interest expense.
+  * __Developed companywide sales reporting__ including deposit cost analyses and pricing strategies.
+  * __Managed projects including__ streamlining the account opening process time by 50% and creating deposit promotions that generated $72 million, while saving 1.5% ($1.8 million) in interest expense.
  
 * 10/2004 - 8/2005: __Manager, Marketing Data Analysis__, Fremont Bank, Fremont, CA
   * __Administered Marketing Customer Information File (MCIF) database and supporting systems__, including vendor management with Harland Financial Solutions and the Client Delight survey vendor.
