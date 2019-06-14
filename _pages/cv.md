@@ -56,7 +56,7 @@ Work experience
  
 * 8/2005 - 12/2012: __Sales and Project Manager__, Fremont Bank, Hayward, CA
   * __Developed companywide sales reporting__ including deposit cost analyses and pricing strategies.
-  * __Managed projects including__ streamlining the account opening process time by 50% and creating deposit promotions that generated \$72 million, while saving 1.5% (\$1.8 million) in interest expense.
+  * __Managed projects including__ streamlining the account opening process time by 50% and creating deposit promotions that generated &dollar;72 million, while saving 1.5% (&dollar;1.8 million) in interest expense.
  
 * 10/2004 - 8/2005: __Manager, Marketing Data Analysis__, Fremont Bank, Fremont, CA
   * __Administered Marketing Customer Information File (MCIF) database and supporting systems__, including vendor management with Harland Financial Solutions and the Client Delight survey vendor.
