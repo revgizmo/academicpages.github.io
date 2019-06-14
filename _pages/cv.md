@@ -61,3 +61,9 @@ Work experience
 * 10/2004 - 8/2005: __Manager, Marketing Data Analysis__, Fremont Bank, Fremont, CA
   * __Administered Marketing Customer Information File (MCIF) database and supporting systems__, including vendor management with Harland Financial Solutions and the Client Delight survey vendor.
   * __Developed measurement system for marketing campaign effectiveness and analyzed client surveys.__ Integrating user feedback resulted in 11% reduced client attrition. 
+
+* test: $12 dollars $13 dollars
+
+* test2: \$12 dollars \$13 dollars
+
+* test2: \&#0005; 12 dollars \&#0005;13 dollars
