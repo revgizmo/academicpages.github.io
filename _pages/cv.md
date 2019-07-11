@@ -11,7 +11,8 @@ redirect_from:
 
 Strategy Focused Data Science Leader
 ======
-
+  
+ 
 Areas of Expertise
 ======
 * Data-Driven Decision Making
