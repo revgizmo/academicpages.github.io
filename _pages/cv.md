@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Strategy Focused Data Science Leader
+======
+
 Areas of Expertise
 ======
 * Data-Driven Decision Making
