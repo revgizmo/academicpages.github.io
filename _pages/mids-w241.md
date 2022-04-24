@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "mids-w241"
+permalink: /mids-w241/
+author_profile: true
+---
+
+
 #+TITLE: Experiments and Causality
 #+OPTIONS: toc:nil
 
